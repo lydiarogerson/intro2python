@@ -1,1 +1,1 @@
-print ('bye pals!')
+print ('bye friends!')
